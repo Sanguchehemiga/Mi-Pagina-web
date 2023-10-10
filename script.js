@@ -32,4 +32,3 @@ document.getElementById('play').addEventListener('click', play);
 document.getElementById('sleep').addEventListener('click', sleep);
 
 updateStatus();
-
